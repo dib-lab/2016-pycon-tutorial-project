@@ -12,6 +12,6 @@ def consume(filename):
     return chars, words, lines
 
 def daaaangerous(param=0):
-    print("I'm the most dangerous function West of the Missippi, no test "\
+    print("I'm the most dangerous function West of the Mississippi, no test "\
           "will cover me!")
     return 3 / param
